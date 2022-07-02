@@ -1,0 +1,32 @@
+@media screen and (max-width:480px){
+
+
+    body{
+       
+    }
+    .logophone{
+        display:inline-block;
+        width: max-content;
+        height: 60%;
+      
+    }
+    .block{
+        display: none;
+    }
+    .promocionphone{
+        display:inline-block;
+        width: max-content;
+        height: 20%;
+
+    }
+
+    .serviciophone{
+        display: none;;
+       
+       
+    }
+    .contacto{
+        width: 100%;
+        
+    }
+}
